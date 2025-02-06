@@ -1,19 +1,12 @@
-## Hi 👋 My name is Andrey Bobb. I'm AQA engineer
+## Hi 👋 My name is Andrey Bobb.
 
-<!--
-**AndreyBobb/AndreyBobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently learning AQA engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+For direct communication, please use [<img width="6%" title="Telegram" src="images/Telegram.png">](https://t.me/AndreyBobb)
+
+
 
 #### 🛠️ Tech Stack:
 <p align="center">
@@ -26,4 +19,8 @@ Here are some ideas to get you started:
 <code><img width="6%" title="JUnit5" src="images/JUnit5.svg"></code>
 <code><img width="6%" title="GitHub" src="images/GitHub.svg"></code>
 <code><img width="6%" title="Jenkins" src="images/Jenkins.svg"></code>
+<code><img width="6%" title="Postman" src="images/Postman.png"></code>
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyBobb&show_icons=true&theme=dark)
