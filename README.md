@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Language tools and technologies:
+#### 🛠️ Tech Stack:
 <p align="center">
 <code><img width="6%" title="IntelliJ IDEA" src="images/IntellijIDEA.svg"></code>
 <code><img width="6%" title="Java" src="images/Java.svg"></code>
