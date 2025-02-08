@@ -19,7 +19,6 @@ For direct communication, please use [<img width="6%" title="Telegram" src="imag
 <code><img width="6%" title="JUnit5" src="images/JUnit5.svg"></code>
 <code><img width="6%" title="GitHub" src="images/GitHub.svg"></code>
 <code><img width="6%" title="Jenkins" src="images/Jenkins.svg"></code>
-<code><img width="6%" title="Postman" src="images/Postman.png"></code>
 </p>
 
 
